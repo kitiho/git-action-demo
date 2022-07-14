@@ -1,5 +1,9 @@
 # Vue 3 + TypeScript + Vite
 
+
+[![Deploy to GitHub Pages](https://github.com/kitiho/git-action-demo/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/kitiho/git-action-demo/actions/workflows/node.js.yml)
+
+
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 ## Recommended IDE Setup
